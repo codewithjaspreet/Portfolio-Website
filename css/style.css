@@ -609,7 +609,7 @@ footer .copyright{
         position: absolute;
         top:260px;
         padding:0 1rem;
-/*         background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9)); */
+background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9)); 
     }
     .hero .left{
         margin-top:-5rem;
